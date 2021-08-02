@@ -1,0 +1,9 @@
+.filterContainer {
+    padding: 30px;
+}
+
+.filterContainer div {
+    display: inline-block;
+    padding-right: 20px;
+    padding-top: 20px;
+}
